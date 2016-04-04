@@ -1,4 +1,4 @@
-# TrumpInvaderV2
+# TrumpInvader
 Make GitHub great again
 
 Trump destroying game for a high school class
